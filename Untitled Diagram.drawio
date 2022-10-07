@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T07:54:07.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VrvRoEf9zSclqu93eRQK" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T08:33:13.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FckQAFs5jtpPMyOfQYDO" version="20.4.0" type="github">
   <diagram id="x0oQ1f2vEvy_7HjZ53LY" name="Page-1">
-    <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3771" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,6 +202,12 @@
         </mxCell>
         <mxCell id="ZBgATQxV83_2fDOECJxi-88" value="Ground Truth Encodings" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/list_job_seeker_employee_unemployee_work-128.png;dashed=1;strokeWidth=0;fontSize=15;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="727" y="1310" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBgATQxV83_2fDOECJxi-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png;dashed=1;strokeWidth=0;fontSize=15;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="411" y="110" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBgATQxV83_2fDOECJxi-90" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2119/154/facebook_messanger-128.png;dashed=1;strokeWidth=0;fontSize=15;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="430" y="72" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
